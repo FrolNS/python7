@@ -3,7 +3,7 @@ def contact_to_s():
 
 
 def choose_mode():
-    return input('Введите режим: 1 - добавление, 2 - поиск. Для выхода введите 3. \n')
+    return input('Введите режим: 1 - добавление, 2 - поиск. Для выхода введите 3.\n')
 
 
 def new_contact():
